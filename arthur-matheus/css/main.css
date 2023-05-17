@@ -1,12 +1,18 @@
        
 
 .teste {
-  color :red ;
+  color :violet ;
 }
 
 .texto-legal {
    color : green
 }
 .texto-daora {
-  color : aquamarine
+  color : blue
+}
+.texto-sentimental {
+  color : gold
+}
+.texto-estranho {
+  color: blueviolet
 }
