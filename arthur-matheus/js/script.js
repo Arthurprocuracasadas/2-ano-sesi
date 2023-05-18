@@ -1,7 +1,7 @@
 
 
 function clickBotao(){
-    //alert("CUIDADO COM O CHIFRE")
+    alert("CUIDADO COM O CHIFRE")
 
     let texto = document.getElementById('text-nome')
     console.log(texto);
